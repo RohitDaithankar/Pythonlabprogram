@@ -1,3 +1,6 @@
+#Rohit Daithankar#
+#09 Division#
+# Outcome random#
 import random
 game_start = input("Would you like to roll the dice?")
 
