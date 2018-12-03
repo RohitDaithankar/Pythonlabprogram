@@ -1,3 +1,6 @@
+#Armstrong number#
+#Rohit Daithankar#
+#Roll no 09 M division#
 def armstrong_number(x):
     sum=0
     num=x 
