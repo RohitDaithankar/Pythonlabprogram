@@ -1,3 +1,6 @@
+#RFActorial number#
+#Rohit Daithankar 09#
+#M division#
 print("factorial(!)")
 print("enter a number")
 x=int(input())
